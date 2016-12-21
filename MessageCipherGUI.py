@@ -310,8 +310,8 @@ class MessageCipherGUI:
     
     # A dialog that displayes information about this program    
     def aboutMenu(self):
-        tkinter.messagebox.showinfo("Frank's Knapsck Cipher", 
-                                    "CS166 Extra Credit Assignment by Frank Mock")
+        tkinter.messagebox.showinfo("Message Cipher", 
+                                    "Message Cipher v0.01 by Frank Mock 12/21/2016")
         
     # An options menu that lets the user change settings
     # I planned to give the user the option to switch between using
